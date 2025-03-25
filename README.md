@@ -43,9 +43,12 @@ plt.legend()
 plt.show()
 ```
 ## Output Waveform:
-![image](https://github.com/user-attachments/assets/412a3965-f3ee-4ee7-a7d6-7a653bb77604)
-![image](https://github.com/user-attachments/assets/b1b44be0-e06b-49ac-ae56-1c3868eb2d31)
-![image](https://github.com/user-attachments/assets/2ea03b31-40d9-4b46-a093-b35a7d017e47)
+![id_s](https://github.com/user-attachments/assets/c68c628a-b7c5-49e7-bb91-558350a03039)
+
+![id_1](https://github.com/user-attachments/assets/6b90bae6-e00e-4a5d-9e84-d31334af9d47)
+
+![id_3](https://github.com/user-attachments/assets/e5cf1cdf-a82a-4621-ac37-6fe603c891f3)
+
 
 
 
