@@ -1,3 +1,6 @@
+# Ideal-Sampling
+## Soniya D
+## 212223060268
 ## Aim:
 To perform Construction and Re-contruction of impluse or ideal sampling using python.
 ## Tools required:
